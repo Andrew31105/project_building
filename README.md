@@ -62,18 +62,3 @@ Là người duy nhất phát triển dự án, tôi đảm nhiệm toàn bộ v
 
 ---
 
-## (Installation)
-
-Nếu bạn muốn chạy thử dự án này trên máy cục bộ:
-
-1.  **Clone repository:**
-    ```bash
-    git clone [https://github.com/Andrew31105/project_building.git](https://github.com/Andrew31105/project_building.git)
-    ```
-2.  **Cài đặt Database:**
-    * Import file `.sql` trong thư mục `database/` vào MySQL Workbench hoặc Navicat.
-    * Cập nhật thông tin kết nối (URL, User, Pass) trong file cấu hình Database của project.
-3.  **Chạy ứng dụng:**
-    * Mở project bằng IDE (IntelliJ IDEA / Eclipse).
-    * Build project với Maven và chạy trên Tomcat Server.
-
