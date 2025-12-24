@@ -43,7 +43,6 @@ Dự án tập trung vào các nghiệp vụ cốt lõi của quản lý tòa nh
 
 ##  (My Responsibilities)
 
-Là người duy nhất phát triển dự án, tôi đảm nhiệm toàn bộ vòng đời phát triển phần mềm (SDLC):
 
 ### 1. Phân tích & Thiết kế (Analysis & Design)
 * Phân tích yêu cầu nghiệp vụ quản lý tòa nhà thực tế.
